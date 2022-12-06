@@ -1,7 +1,7 @@
 class CustomHeader extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
-            <h1>Boobs</h1>
+            
         `;
     }
 }

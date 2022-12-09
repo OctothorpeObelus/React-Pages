@@ -1,7 +1,7 @@
 {
   "name": "octo-github-io",
   "version": "0.1.0",
-  "homepage": "https://octothorpeobelus.github.io/octothorpeobelus.github.io",
+  "homepage": "https://octothorpeobelus.github.io/React-Pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
